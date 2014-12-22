@@ -1,4 +1,4 @@
-sublime-text-settings
-=====================
+sublime-text-3-user-settings
+============================
 
-Sublime Text Settings
+Sublime Text 3 User Settings
